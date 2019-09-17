@@ -1,17 +1,20 @@
 <?php
 
 /* @var $this yii\web\View */
+use yii\helpers\Html;
+use yii\helpers\Url;
 
 $this->title = 'My Yii Application';
 ?>
+
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>Congratulations!</h1>
+        <h1>Cube Summation!</h1>
 
-        <p class="lead">You have successfully created your Yii-powered application.</p>
+        <p class="lead">Aplicacion en yii2</p>
 
-        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>
+        <p><a class="btn btn-lg btn-success" href="https://www.hackerrank.com/challenges/cube-summation/problem">Prueba HackerRank PHP</a></p>
     </div>
 
     <div class="body-content">
